@@ -22,6 +22,7 @@ public class numeros {
             }
 
     }
+    System.put.println("El numero mayor es: " + mayor);
      //que posicion ocupa el numero menor y numero mayor 
         int posMenor = 0;
         int posMayor = 0;
